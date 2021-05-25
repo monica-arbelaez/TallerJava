@@ -42,7 +42,7 @@ public class Ejercicio8 {
         System.out.println("ingresa un día de la semana");
         String diaSemana = entradaScanner.nextLine();
 
-        miEjercicio8.diaLaboral(diaSemana);
+        miEjercicio8.diaLaboral(diaSemana.toLowerCase());
 
     }
 
