@@ -1,0 +1,22 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ†°
+;
+java:S1659" Declare "n2" on a separate line.(Ÿ÷Èùÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(…¸µëúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ìˆ§
+N	java:S106"9Replace this use of System.out or System.err by a logger.(îİÔ’
+E
+java:S6212"/Declare this local variable with "var" instead.(Øâ
+J
+java:S6212"/Declare this local variable with "var" instead.(ÉØÂ»şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹ƒÇ
+J
+java:S6212"/Declare this local variable with "var" instead.(òÅˆÈÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²÷ÆÂ
+E
+java:S6212"/Declare this local variable with "var" instead.(°áš¼
+A
+java:S1068"&Remove this unused "n1" private field.(Ÿ÷Èùÿÿÿÿ
+A
+java:S1068"&Remove this unused "n2" private field.(Ÿ÷Èùÿÿÿÿ

@@ -15,7 +15,7 @@ public class Ejercicio3 {
         Ejercicio3 miEjercicio3 = new Ejercicio3();
 
         System.out.println("ingresa el radio del circulo");
-        double radio = Integer.parseInt(entradaScanner.nextLine());
+        double radio = entradaScanner.nextInt();
 
         miEjercicio3.areaCirculo(radio);
     }

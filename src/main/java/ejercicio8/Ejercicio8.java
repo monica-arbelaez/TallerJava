@@ -8,29 +8,13 @@ public class Ejercicio8 {
 
     public void diaLaboral(String diaSemana){
         switch (diaSemana) {
-            case "lunes":
-                System.out.println("El "+diaSemana+ " es día laboral " );
+            case "domingo":case "sabado":
+                System.out.println("El " + diaSemana + " no es un día laboral.");
                 break;
-            case "martes":
-                System.out.println("El "+diaSemana+ " es día laboral ");
-                break;
-            case "miercoles":
-                System.out.println("El "+diaSemana+ " es día laboral ");
-                break;
-            case "jueves":
-                System.out.println("El "+diaSemana+ " es día laboral ");
-                break;
-            case "viernes":
-                System.out.println("El "+diaSemana+ " es día laboral ");
-                break;
-            case "sabado":
-                System.out.println("El "+diaSemana+ " no es día laboral ");
-                break;
-            case "domingo":
-                System.out.println("El "+diaSemana+ " no es día laboral ");
-                break;
+
             default:
-                System.out.println("no es un dia de la semana intenta otra vez");
+                System.out.println("El " + diaSemana + " es un día laboral.");
+
         }
     }
 

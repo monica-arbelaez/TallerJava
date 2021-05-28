@@ -12,19 +12,19 @@ public class Ejercicio11 {
 
         for(int x=0;x<frase.length();x++) {
             switch (frase.charAt(x)) {
-                case 'a':
+                case 'a':case 'á':
                     contador[0]++;
                     break;
-                case 'e':
+                case 'e': case 'é':
                     contador[1]++;
                     break;
-                case 'i':
+                case 'i': case 'í':
                     contador[2]++;
                     break;
-                case 'o':
+                case 'o':case 'ó':
                     contador[3]++;
                     break;
-                case 'u':
+                case 'u':case 'ú':
                     contador[4]++;
                     break;
             }

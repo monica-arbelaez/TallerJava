@@ -1,0 +1,15 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º²Í†
+6
+java:S1170"!Make this final field static too.(ì¨“?
+c	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¶Ôï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ·œ™ùÿÿÿÿ
+L
+java:S6212"/Declare this local variable with "var" instead.(Øâ8±ç¨™/
+E
+java:S6212"/Declare this local variable with "var" instead.(”¢û®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ã«êûÿÿÿÿ
+Q
+java:S6212"/Declare this local variable with "var" instead.(‰Òêëúÿÿÿÿ8ì±‚Íš/
+G
+java:S1068"*Remove this unused "precio" private field.(šĞü8Áïä¨™/

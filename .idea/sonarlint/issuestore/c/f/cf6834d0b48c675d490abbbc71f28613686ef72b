@@ -1,0 +1,16 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’‡òã
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼ı²‘ùÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(È¼„õøÿÿÿÿ
+7	java:S131""Add a default case to this switch.(—‡›ı
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(×èº¾ÿÿÿÿÿ
+E
+java:S6212)"/Declare this local variable with "var" instead.(Øâ
+E
+java:S6212*"/Declare this local variable with "var" instead.(Ë˜ÖÉ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Èûó ûÿÿÿÿ
+D
+java:S1068")Remove this unused "frase" private field.(ÿùÉçûÿÿÿÿ

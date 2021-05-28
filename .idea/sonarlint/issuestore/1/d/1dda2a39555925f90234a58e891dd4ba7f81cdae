@@ -1,0 +1,31 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïÏV
+i
+java:S1450"SRemove the "menu" field and declare it as a local variable in the relevant methods.(ÇÁÑš
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©Ñÿ¶ùÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(Øâ
+J
+java:S6212"/Declare this local variable with "var" instead.(†¯›Üıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶‰ÉÜùÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.( «×
+M	java:S106"9Replace this use of System.out or System.err by a logger.(™Àô
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(È“üÍ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(€›ï¯ùÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(õ˜ 
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(·ÑŒÀúÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(·»ªìüÿÿÿÿ
+M	java:S1060"9Replace this use of System.out or System.err by a logger.(·A
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(â…¨÷
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(£ÇÇşÿÿÿÿ
+I
+java:S11259"'Remove the unnecessary boolean literal.(–¢«„şÿÿÿÿ8ËøáÍš/
+X
+java:S1854="BRemove this useless assignment to local variable "entradaScanner".(Øâ
+E
+java:S6212="/Declare this local variable with "var" instead.(Øâ
+E
+java:S6212>"/Declare this local variable with "var" instead.(ã‘‹î
+I
+java:S1481="3Remove this unused "entradaScanner" local variable.(Øâ
