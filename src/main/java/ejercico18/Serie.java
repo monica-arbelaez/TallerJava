@@ -97,8 +97,13 @@ public class Serie implements Entregable {
 
     @Override
     public int compareTo(Object a) {
-        Serie resultadoTemporadas =(Serie) a;
-
-        return 0;
+        int mayor = -1;
+        Serie serie1 = (Serie)a;
+        if (this.numeroTemporadas > serie1.getNumeroTemporadas())
+            mayor = 1;
+        if (this.numeroTemporadas < serie1.getNumeroTemporadas())
+            mayor = -1;
+        else mayor = 0;
+        return mayor;
     }
 }

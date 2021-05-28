@@ -84,6 +84,14 @@ public class ViedoJuego implements Entregable{
 
     @Override
     public int compareTo(Object a) {
-        return 0;
+        int mayor = -1;
+        ViedoJuego videoJ =(ViedoJuego)a;
+        if (this.horasEstimadas > videoJ.getHorasEstimadas() )
+            mayor = 1;
+        else if (this.horasEstimadas < videoJ.getHorasEstimadasDef())
+            mayor = -1;
+        else mayor = 0;
+        return mayor;
+
     }
 }
